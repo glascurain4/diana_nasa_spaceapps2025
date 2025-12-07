@@ -1,4 +1,4 @@
-# NASA Exoplanet Analysis Dashboard
+# DIANA - NASA Exoplanet Analysis Dashboard
 
 A full-stack application for analyzing exoplanet observations using machine learning. The dashboard allows users to input astronomical data, load pre-existing datasets, and analyze them using trained ML models.
 
